@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/WEEK 2/MODULE 4 TDD/EX 4 AAA/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 2/MODULE 4 TDD/MOCKITO EXERCISES/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 2/MODULE 4 TDD/EX 3 AssertionsTest/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 2/MODULE 4 TDD/SLF4J LOGGING FRAMEWORK/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 2/MODULE 4 TDD/EX 1 settingup junitdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 3/Spring Core_maven/Exercise 1/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 3/Spring Core_maven/Exercise 2/LibraryDIExample/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 3/Spring Core_maven/Exercise 4/LibraryManagement1/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 3/spring-data-jpa-handson/Spring Data JPA - Quick Example/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 4/5. JWT Handson/jwt-auth-example/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 4/1. spring-rest-handson/EX1 Create a Spring Web Project using Maven/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 4/1. spring-rest-handson/EX2 Spring Core – Load Country from Spring Configuration XML/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 4/2. spring-rest-handson/EX1 Hello World/hello-world-service/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 4/2. spring-rest-handson/EX2 REST - Country Web Service/country-service/pom.xml" />
+        <option value="$PROJECT_DIR$/WEEK 4/2. spring-rest-handson/EX3 REST - Get country based on country code/country-lookup-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="temurin-25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

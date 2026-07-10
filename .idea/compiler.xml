@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LibraryDIExample" />
+        <module name="jwt-auth-example" />
+        <module name="spring-learn (1)" />
+        <module name="orm-learn" />
+        <module name="country-lookup-service" />
+        <module name="JUnitExample (2)" />
+        <module name="spring-learn" />
+        <module name="JUnitExample (1)" />
+        <module name="hello-world-service" />
+        <module name="JUnitExample" />
+        <module name="logging-example" />
+        <module name="LibraryManagement" />
+        <module name="junitdemo" />
+        <module name="country-service" />
+        <module name="LibraryManagement (1)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="country-lookup-service" options="-parameters" />
+      <module name="country-service" options="-parameters" />
+      <module name="hello-world-service" options="-parameters" />
+      <module name="jwt-auth-example" options="-parameters" />
+      <module name="orm-learn" options="-parameters" />
+      <module name="spring-learn" options="-parameters" />
+      <module name="spring-learn (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

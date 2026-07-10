@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WEEK 3/spring-data-jpa-handson/Spring Data JPA - Quick Example/orm-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WEEK 4/1. spring-rest-handson/EX1 Create a Spring Web Project using Maven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WEEK 4/1. spring-rest-handson/EX2 Spring Core – Load Country from Spring Configuration XML/spring-learn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WEEK 4/2. spring-rest-handson/EX1 Hello World/hello-world-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WEEK 4/2. spring-rest-handson/EX2 REST - Country Web Service/country-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WEEK 4/2. spring-rest-handson/EX3 REST - Get country based on country code/country-lookup-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WEEK 4/5. JWT Handson/jwt-auth-example/src/main/java" charset="UTF-8" />
+  </component>
+</project>
